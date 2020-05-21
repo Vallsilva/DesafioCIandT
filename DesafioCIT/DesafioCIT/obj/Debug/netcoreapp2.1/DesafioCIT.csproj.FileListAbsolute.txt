@@ -1,0 +1,11 @@
+C:\DEV\desafio-cit\DesafioCIT\DesafioCIT\bin\Debug\netcoreapp2.1\DesafioCIT.deps.json
+C:\DEV\desafio-cit\DesafioCIT\DesafioCIT\bin\Debug\netcoreapp2.1\DesafioCIT.runtimeconfig.json
+C:\DEV\desafio-cit\DesafioCIT\DesafioCIT\bin\Debug\netcoreapp2.1\DesafioCIT.runtimeconfig.dev.json
+C:\DEV\desafio-cit\DesafioCIT\DesafioCIT\bin\Debug\netcoreapp2.1\DesafioCIT.dll
+C:\DEV\desafio-cit\DesafioCIT\DesafioCIT\bin\Debug\netcoreapp2.1\DesafioCIT.pdb
+C:\DEV\desafio-cit\DesafioCIT\DesafioCIT\obj\Debug\netcoreapp2.1\DesafioCIT.csprojAssemblyReference.cache
+C:\DEV\desafio-cit\DesafioCIT\DesafioCIT\obj\Debug\netcoreapp2.1\DesafioCIT.csproj.CoreCompileInputs.cache
+C:\DEV\desafio-cit\DesafioCIT\DesafioCIT\obj\Debug\netcoreapp2.1\DesafioCIT.AssemblyInfoInputs.cache
+C:\DEV\desafio-cit\DesafioCIT\DesafioCIT\obj\Debug\netcoreapp2.1\DesafioCIT.AssemblyInfo.cs
+C:\DEV\desafio-cit\DesafioCIT\DesafioCIT\obj\Debug\netcoreapp2.1\DesafioCIT.dll
+C:\DEV\desafio-cit\DesafioCIT\DesafioCIT\obj\Debug\netcoreapp2.1\DesafioCIT.pdb
